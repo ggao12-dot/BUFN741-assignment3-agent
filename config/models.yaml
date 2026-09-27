@@ -1,0 +1,5 @@
+models:
+  CAPM: [MKT]
+  FF3: [MKT, SMB, HML]
+  FF5: [MKT, SMB, HML, RMW, CMA]
+

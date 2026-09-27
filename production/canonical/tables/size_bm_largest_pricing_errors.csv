@@ -1,0 +1,21 @@
+sample,model,asset,portfolio_label,actual_pct_month,predicted_pct_month,pricing_error_pct_month
+post_gfc,CAPM,size_book_to_market__s5__c5,Big / High B/M,1.4247829787234,0.97204019566732,0.45274278305606996
+earlier,CAPM,size_book_to_market__s1__c5,Small / High B/M,1.09177105263157,0.6938773032773,0.39789374935426997
+post_gfc,CAPM,size_book_to_market__s1__c1,Small / Low B/M,0.6272409574468,0.96594690879598,-0.33870595134917003
+earlier,CAPM,size_book_to_market__s2__c5,2 / High B/M,1.00899350877192,0.6707654747569199,0.338228034015
+earlier,CAPM,size_book_to_market__s5__c1,Big / Low B/M,0.39515210526315003,0.7286463071289699,-0.33349420186580997
+earlier,CAPM,size_book_to_market__s3__c5,3 / High B/M,1.0316185964912201,0.7027979081756299,0.32882068831559
+post_gfc,FF5,size_book_to_market__s1__c1,Small / Low B/M,0.6272409574468,0.94798851905834,-0.32074756161153
+earlier,CAPM,size_book_to_market__s5__c2,Big / 2,0.43062438596491,0.74637590347591,-0.31575151751099
+post_gfc,FF5,size_book_to_market__s1__c5,Small / High B/M,1.1833164893617,0.90683418637191,0.27648230298979004
+post_gfc,CAPM,size_book_to_market__s5__c1,Big / Low B/M,1.28158776595744,1.0056413342486101,0.27594643170883004
+earlier,FF5,size_book_to_market__s4__c1,4 / Low B/M,0.53239789473684,0.29472620237962,0.23767169235721
+earlier,FF5,size_book_to_market__s1__c1,Small / Low B/M,0.23197754385964,0.46422598318566,-0.23224843932601
+post_gfc,FF5,size_book_to_market__s2__c2,2 / 2,1.12035691489361,0.9100844508697199,0.21027246402389
+post_gfc,FF5,size_book_to_market__s5__c4,Big / 4,0.85529680851063,1.06027964845533,-0.20498283994469002
+post_gfc,CAPM,size_book_to_market__s3__c3,3 / 3,0.80823989361702,0.99396304929515,-0.18572315567813
+post_gfc,CAPM,size_book_to_market__s1__c5,Small / High B/M,1.1833164893617,0.99859362893679,0.1847228604249
+post_gfc,FF5,size_book_to_market__s3__c3,3 / 3,0.80823989361702,0.9846934870799801,-0.17645359346296
+earlier,FF5,size_book_to_market__s5__c4,Big / 4,0.45633385964912004,0.62360081001553,-0.16726695036640998
+earlier,FF5,size_book_to_market__s3__c5,3 / High B/M,1.0316185964912201,0.9195036379594901,0.11211495853173
+earlier,FF5,size_book_to_market__s4__c4,4 / 4,0.81621192982456,0.71135431197693,0.10485761784762

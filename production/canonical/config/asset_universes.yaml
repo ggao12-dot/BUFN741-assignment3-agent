@@ -1,0 +1,23 @@
+families:
+  size_book_to_market: {source: portfolios_25_size_bm, label: Book-to-Market, short_label: B/M}
+  size_profitability: {source: portfolios_25_size_op, label: Operating Profitability, short_label: OP}
+  size_investment: {source: portfolios_25_size_inv, label: Investment, short_label: Inv}
+  size_momentum: {source: portfolios_25_size_mom, label: Momentum, short_label: Mom}
+  size_short_term_reversal: {source: portfolios_25_size_strev, label: Short-Term Reversal, short_label: ST Rev}
+  size_long_term_reversal: {source: portfolios_25_size_ltrev, label: Long-Term Reversal, short_label: LT Rev}
+  size_accruals: {source: portfolios_25_size_accruals, label: Accruals, short_label: Accruals}
+  size_market_beta: {source: portfolios_25_size_beta, label: Market Beta, short_label: Beta}
+  size_net_share_issues: {source: portfolios_25_size_ni, label: Net Share Issues, short_label: NSI}
+  size_variance: {source: portfolios_25_size_var, label: Variance, short_label: Var}
+  size_residual_variance: {source: portfolios_25_size_resvar, label: Residual Variance, short_label: ResVar}
+univariate:
+  earnings_price: portfolios_ep
+  cashflow_price: portfolios_cfp
+  dividend_yield: portfolios_dp
+  momentum: portfolios_mom
+  short_term_reversal: portfolios_strev
+  long_term_reversal: portfolios_ltrev
+  accruals: portfolios_accruals
+  net_share_issues: portfolios_ni
+industries: industries_49
+

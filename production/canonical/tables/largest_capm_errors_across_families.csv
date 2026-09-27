@@ -1,0 +1,21 @@
+sample,family,family_label,asset,portfolio_label,pricing_error_pct_month
+post_gfc,size_variance,Variance,size_variance__s1__c5,Small / High Var,-0.79728290166938
+earlier,size_momentum,Momentum,size_momentum__s1__c5,Small / High Mom,0.7958872142695
+earlier,size_short_term_reversal,Short-Term Reversal,size_short_term_reversal__s1__c5,Small / High ST Rev,-0.69700360607247
+earlier,size_variance,Variance,size_variance__s1__c5,Small / High Var,-0.67365171892176
+earlier,size_residual_variance,Residual Variance,size_residual_variance__s1__c5,Small / High ResVar,-0.67121947183475
+earlier,size_momentum,Momentum,size_momentum__s2__c5,2 / High Mom,0.6691884170271201
+post_gfc,size_net_share_issues,Net Share Issues,size_net_share_issues__s5__c3,Big / 3,0.6603946619443399
+post_gfc,size_residual_variance,Residual Variance,size_residual_variance__s1__c5,Small / High ResVar,-0.6421719446137399
+earlier,size_momentum,Momentum,size_momentum__s3__c5,3 / High Mom,0.5884020201323
+post_gfc,size_market_beta,Market Beta,size_market_beta__s5__c5,Big / High Beta,0.58832763999126
+earlier,size_net_share_issues,Net Share Issues,size_net_share_issues__s5__c5,Big / High NSI,-0.54656455634306
+earlier,size_residual_variance,Residual Variance,size_residual_variance__s1__c2,Small / 2,0.47566333914619996
+earlier,size_variance,Variance,size_variance__s1__c2,Small / 2,0.47447697048903
+earlier,size_momentum,Momentum,size_momentum__s1__c1,Small / Low Mom,-0.47231111321964997
+post_gfc,size_net_share_issues,Net Share Issues,size_net_share_issues__s1__c5,Small / High NSI,-0.4722851532755
+post_gfc,size_variance,Variance,size_variance__s5__c5,Big / High Var,0.45322015047436
+post_gfc,size_book_to_market,Book-to-Market,size_book_to_market__s5__c5,Big / High B/M,0.45274278305606996
+post_gfc,size_short_term_reversal,Short-Term Reversal,size_short_term_reversal__s1__c5,Small / High ST Rev,-0.41203868463741006
+post_gfc,size_net_share_issues,Net Share Issues,size_net_share_issues__s1__c2,Small / 2,0.38598375447683
+post_gfc,size_profitability,Operating Profitability,size_profitability__s1__c4,Small / 4,0.37716996011831

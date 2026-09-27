@@ -1,0 +1,9 @@
+characteristic,source_dataset,partition_used,number_of_portfolios,final_total_cross_sectional_assets
+earnings_price,Portfolios_Formed_on_E-P_CSV.zip,10,10,80
+cashflow_price,Portfolios_Formed_on_CF-P_CSV.zip,10,10,80
+dividend_yield,Portfolios_Formed_on_D-P_CSV.zip,10,10,80
+momentum,10_Portfolios_Prior_12_2_CSV.zip,10,10,80
+short_term_reversal,10_Portfolios_Prior_1_0_CSV.zip,10,10,80
+long_term_reversal,10_Portfolios_Prior_60_13_CSV.zip,10,10,80
+accruals,Portfolios_Formed_on_AC_CSV.zip,10,10,80
+net_share_issues,Portfolios_Formed_on_NI_CSV.zip,10,10,80

@@ -1,0 +1,13 @@
+portfolio_family,sample,model,portfolio,portfolio_label,alpha_pct_month,alpha_t,alpha_p
+size_momentum,earlier,CAPM,size_momentum__s1__c5,Small / High Mom,0.8223106414045601,4.729364293966421,2.8447956728575893e-06
+size_momentum,earlier,CAPM,size_momentum__s2__c1,2 / Low Mom,-0.56268550919561,-2.899149660577524,0.003886375219141
+size_momentum,earlier,FF3,size_momentum__s1__c5,Small / High Mom,0.61126148244267,6.204960229411092,1.0575233385856447e-09
+size_momentum,earlier,FF3,size_momentum__s1__c1,Small / Low Mom,-0.99806604910825,-6.020293783261997,3.1321544197235244e-09
+size_momentum,earlier,FF5,size_momentum__s1__c5,Small / High Mom,0.64489845349613,6.3844049439000905,3.5966655282401136e-10
+size_momentum,earlier,FF5,size_momentum__s1__c1,Small / Low Mom,-0.75092073303234,-4.551589629249322,6.525347865932974e-06
+size_momentum,post_gfc,CAPM,size_momentum__s5__c3,Big / 3,0.22491990147672,2.178115453616884,0.0306556511848864
+size_momentum,post_gfc,CAPM,size_momentum__s3__c1,3 / Low Mom,-1.07551390715344,-3.410165281427039,0.0007962175895991
+size_momentum,post_gfc,FF3,size_momentum__s2__c4,2 / 4,0.31614945927535,2.8387925458780905,0.0050374940408878
+size_momentum,post_gfc,FF3,size_momentum__s3__c1,3 / Low Mom,-0.7393108615002599,-2.996755985278872,0.0031052560901827
+size_momentum,post_gfc,FF5,size_momentum__s2__c4,2 / 4,0.32099678228449,2.881556012914278,0.0044330479074509
+size_momentum,post_gfc,FF5,size_momentum__s3__c1,3 / Low Mom,-0.74683399709638,-3.012689337118568,0.0029582625869929

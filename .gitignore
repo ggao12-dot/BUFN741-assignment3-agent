@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/raw/*.zip
+data/raw/source_manifest.json
+data/processed/*.csv
+results/**
+!results/.gitkeep
+reports/assignment3_final_report.md
+production_manifest.json
+workflow_state.json
+

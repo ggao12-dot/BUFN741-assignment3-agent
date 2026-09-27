@@ -1,0 +1,10 @@
+specifications:
+  1: {regressors: [MKT], beta_source: CAPM}
+  2: {regressors: [MKT, SMB, HML], beta_source: FF3}
+  3: {regressors: [MKT, SMB, RMW], beta_source: FF5}
+  4: {regressors: [MKT, SMB, CMA], beta_source: FF5}
+  5: {regressors: [MKT, SMB, HML, RMW], beta_source: FF5}
+  6: {regressors: [MKT, SMB, HML, CMA], beta_source: FF5}
+  7: {regressors: [MKT, SMB, RMW, CMA], beta_source: FF5}
+  8: {regressors: [MKT, SMB, HML, RMW, CMA], beta_source: FF5}
+

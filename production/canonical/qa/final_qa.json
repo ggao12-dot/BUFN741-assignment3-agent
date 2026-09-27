@@ -1,0 +1,83 @@
+{
+  "status": "PASS",
+  "checks": {
+    "two_pass_66": {
+      "passed": true,
+      "observed": 66
+    },
+    "two_pass_25_assets": {
+      "passed": true
+    },
+    "two_pass_44_plots": {
+      "passed": true,
+      "observed": 44
+    },
+    "rolling_panels_three_per_universe_36_months": {
+      "passed": true,
+      "observed_files": 6
+    },
+    "beta_return_t_plus_1_alignment": {
+      "passed": true,
+      "observed_sample_panels": 12
+    },
+    "fm_32_universe_sample_specs": {
+      "passed": true,
+      "observed": 32
+    },
+    "fm_32_monthly_files": {
+      "passed": true,
+      "observed": 32
+    },
+    "fm_beta_sources": {
+      "passed": true,
+      "expected": {
+        "1": "CAPM",
+        "2": "FF3",
+        "3": "FF5",
+        "4": "FF5",
+        "5": "FF5",
+        "6": "FF5",
+        "7": "FF5",
+        "8": "FF5"
+      }
+    },
+    "fm_four_compact_csv_markdown_tables": {
+      "passed": true
+    },
+    "fm_24_spec8_lambda_plots": {
+      "passed": true,
+      "observed": 24
+    },
+    "grs_selected_family": {
+      "passed": true,
+      "value": "size_momentum"
+    },
+    "grs_six_valid_cases": {
+      "passed": true,
+      "observed": 6
+    },
+    "grs_rank_conditioning_invertibility": {
+      "passed": "True"
+    },
+    "alpha_grids_12_tables_12_figures": {
+      "passed": true,
+      "tables": 12,
+      "figures": 12
+    },
+    "no_stale_grs_family": {
+      "passed": true
+    },
+    "report_nine_questions": {
+      "passed": true,
+      "observed": 9
+    },
+    "report_image_links": {
+      "passed": true,
+      "broken": []
+    },
+    "report_no_placeholders": {
+      "passed": true
+    }
+  },
+  "failures": []
+}

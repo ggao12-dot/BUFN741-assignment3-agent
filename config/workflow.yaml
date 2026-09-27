@@ -1,0 +1,9 @@
+rolling_window: 36
+hac_lags: 6
+grs:
+  enabled: true
+  portfolio_family: size_momentum
+figures:
+  formats: [png]
+  dpi: 160
+

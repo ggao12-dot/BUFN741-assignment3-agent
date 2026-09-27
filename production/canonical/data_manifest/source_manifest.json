@@ -1,0 +1,159 @@
+{
+  "library": "Kenneth R. French Data Library",
+  "sources": {
+    "factors_3": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_Factors_CSV.zip",
+      "filename": "F-F_Research_Data_Factors_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:00.839128+00:00",
+      "sha256": "593f4fbef03181bc0b22ff6292f217689dd1fb79355049ca905d95b262040a66",
+      "bytes": 13065
+    },
+    "factors_5": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/F-F_Research_Data_5_Factors_2x3_CSV.zip",
+      "filename": "F-F_Research_Data_5_Factors_2x3_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:00.868845+00:00",
+      "sha256": "36756c5c2559648519ac4b22913d860c6afd865cfebce920e3e8927f8e2d10b7",
+      "bytes": 11964
+    },
+    "portfolios_25_size_bm": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_5x5_CSV.zip",
+      "filename": "25_Portfolios_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.060137+00:00",
+      "sha256": "e02edcd282d8993cf3133e71181665f888ecb57c202a99a9cbd6cdf7fc6b8429",
+      "bytes": 548830
+    },
+    "portfolios_25_size_op": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_OP_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_OP_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.171065+00:00",
+      "sha256": "b365749f6f1bfad2484b8f539197d3fc8874863bf49067ffb70c7fe8ec9bfafc",
+      "bytes": 384492
+    },
+    "portfolios_25_size_inv": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_INV_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_INV_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.271748+00:00",
+      "sha256": "3106f316cd5b077ea3c5f4dc2961dc3018c615d999d04627d71707a47dcfb14a",
+      "bytes": 385603
+    },
+    "portfolios_25_size_mom": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_Prior_12_2_CSV.zip",
+      "filename": "25_Portfolios_ME_Prior_12_2_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.388820+00:00",
+      "sha256": "59ea7b1f1f041588a4786456b7e1f72bfb9da00f83832556b464beb5f6a49a36",
+      "bytes": 427143
+    },
+    "portfolios_25_size_strev": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_Prior_1_0_CSV.zip",
+      "filename": "25_Portfolios_ME_Prior_1_0_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.478373+00:00",
+      "sha256": "3c05e2fac0e0a52d28bb883bd0ccbcd320561f6ba2dd458efea7f9b81cf43571",
+      "bytes": 411433
+    },
+    "portfolios_25_size_ltrev": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_Prior_60_13_CSV.zip",
+      "filename": "25_Portfolios_ME_Prior_60_13_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.575858+00:00",
+      "sha256": "0d00ef919e647a22d7027c6c95f83318882cbc9740e49223855ebc7adc43d8e9",
+      "bytes": 421155
+    },
+    "portfolios_25_size_accruals": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_AC_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_AC_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.717577+00:00",
+      "sha256": "443288ac3846b79b31ace3240fea7c37d406a11365ee22c1380ab8db37896058",
+      "bytes": 534084
+    },
+    "portfolios_25_size_beta": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_BETA_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_BETA_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:01.828410+00:00",
+      "sha256": "716efc2073e44fbb7de5443c326f08275ec12c39a0b7fe18f7e127006deb7fcc",
+      "bytes": 465140
+    },
+    "portfolios_25_size_ni": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_NI_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_NI_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.002069+00:00",
+      "sha256": "b3cfbbdaf4faa75454b21706e70cd9f654a8d0a152e73e6547d481db42e9a87f",
+      "bytes": 691674
+    },
+    "portfolios_25_size_var": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_VAR_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_VAR_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.099489+00:00",
+      "sha256": "77c8f5b444829d4f4a7e6a0bb70e2e97472c0c06be8c3c1734e5f608b4e34734",
+      "bytes": 491360
+    },
+    "portfolios_25_size_resvar": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/25_Portfolios_ME_RESVAR_5x5_CSV.zip",
+      "filename": "25_Portfolios_ME_RESVAR_5x5_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.248754+00:00",
+      "sha256": "7d304ea2f2d6d1a327651c59d416854fc30fa2b260a52b0a64fb6b42cdbc5154",
+      "bytes": 490112
+    },
+    "portfolios_ep": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_E-P_CSV.zip",
+      "filename": "Portfolios_Formed_on_E-P_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.349288+00:00",
+      "sha256": "44948399adae16c77d1836d48e091e6dc69a8f89698389ed9a00c43059b3626b",
+      "bytes": 163834
+    },
+    "portfolios_cfp": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_CF-P_CSV.zip",
+      "filename": "Portfolios_Formed_on_CF-P_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.389541+00:00",
+      "sha256": "30d15a9007c1c67d2893afc106566be27e810bb0d748c0fa8fc69b922f1083be",
+      "bytes": 164314
+    },
+    "portfolios_dp": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_D-P_CSV.zip",
+      "filename": "Portfolios_Formed_on_D-P_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.442061+00:00",
+      "sha256": "87b9d946bd7cd6ad747f03fcd5ed7838395d208da5b297368a3243a9f493e749",
+      "bytes": 202266
+    },
+    "portfolios_mom": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/10_Portfolios_Prior_12_2_CSV.zip",
+      "filename": "10_Portfolios_Prior_12_2_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.495920+00:00",
+      "sha256": "dce836c412a4ce0a9c4bdb2d4f3a613672b6ffd10e434132e2a21bf9bb18f001",
+      "bytes": 119089
+    },
+    "portfolios_strev": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/10_Portfolios_Prior_1_0_CSV.zip",
+      "filename": "10_Portfolios_Prior_1_0_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.556209+00:00",
+      "sha256": "4f67bb025447cb6fc0c758cbda3df8749644d2d333340ddfcfbf7526b3fdd584",
+      "bytes": 120711
+    },
+    "portfolios_ltrev": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/10_Portfolios_Prior_60_13_CSV.zip",
+      "filename": "10_Portfolios_Prior_60_13_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.596613+00:00",
+      "sha256": "6240cd7606708cecc9eb8db886c1c82396edf1470310afa23cd665d7374c782e",
+      "bytes": 113557
+    },
+    "portfolios_accruals": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_AC_CSV.zip",
+      "filename": "Portfolios_Formed_on_AC_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.661401+00:00",
+      "sha256": "6710cd881e625f48b39d48d4cf77cb11a6deef3e67e4b091551289b9005a413e",
+      "bytes": 114647
+    },
+    "portfolios_ni": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/Portfolios_Formed_on_NI_CSV.zip",
+      "filename": "Portfolios_Formed_on_NI_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.699604+00:00",
+      "sha256": "f5d06386076965345b548b3f985a31e3c550a29ebfc52eb74475f7495e153818",
+      "bytes": 127432
+    },
+    "industries_49": {
+      "url": "https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/ftp/49_Industry_Portfolios_CSV.zip",
+      "filename": "49_Industry_Portfolios_CSV.zip",
+      "downloaded_at": "2026-09-27T17:54:02.806810+00:00",
+      "sha256": "16b3f20bf5bd1db8f5cd7a1b29f5cab1350eb0d5106c5309f77a6629590b1c0e",
+      "bytes": 489433
+    }
+  }
+}

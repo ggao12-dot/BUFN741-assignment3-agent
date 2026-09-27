@@ -1,0 +1,4 @@
+# Optional report-conversion stack. Install after requirements.txt.
+pypandoc_binary>=1.15
+weasyprint>=66
+

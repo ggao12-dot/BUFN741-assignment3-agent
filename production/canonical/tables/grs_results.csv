@@ -1,0 +1,7 @@
+N,K,T,grs_F,df1,df2,p_value,portfolio_family,portfolio_family_display_name,sample,model,reject_5pct
+25,1,570,4.655013106826644,25,544,3.140754144339216e-12,size_momentum,Size × Momentum,earlier,CAPM,True
+25,3,570,4.647270144196152,25,542,3.3869730151779728e-12,size_momentum,Size × Momentum,earlier,FF3,True
+25,5,570,4.201913907576131,25,540,1.3631485183638026e-10,size_momentum,Size × Momentum,earlier,FF5,True
+25,1,188,1.522921199795109,25,162,0.0636693618866735,size_momentum,Size × Momentum,post_gfc,CAPM,False
+25,3,188,1.5794619687316258,25,160,0.0489431621312872,size_momentum,Size × Momentum,post_gfc,FF3,True
+25,5,188,1.5500927426977775,25,158,0.0564835873108682,size_momentum,Size × Momentum,post_gfc,FF5,False

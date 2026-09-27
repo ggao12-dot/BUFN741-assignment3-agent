@@ -1,0 +1,8 @@
+samples:
+  earlier:
+    start: 1963-07
+    end: 2010-12
+  post_gfc:
+    start: 2011-01
+    end: latest_common
+
